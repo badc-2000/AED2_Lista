@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1682116941 source:c:\users\55929\desktop\ifaulas\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao05.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao20.h"
+
+1681352042 c:\users\55929\desktop\ifaulas\lista01\questao01.h
+
+1682042642 source:c:\users\55929\desktop\ifaulas\lista01\questao01.c
+	<stdlib.h>
+	<stdio.h>
+	"questao01.h"
+
+1681354030 c:\users\55929\desktop\ifaulas\lista01\questao02.h
+
+1681356559 source:c:\users\55929\desktop\ifaulas\lista01\questao02.c
+
+1681357874 c:\users\55929\desktop\ifaulas\lista01\questao05.h
+
+1681357945 source:c:\users\55929\desktop\ifaulas\lista01\questao05.c
+	<stdlib.h>
+	<stdio.h>
+	"questao05.h"
+
+1682036404 c:\users\55929\desktop\ifaulas\lista01\questao11.h
+
+1682037054 source:c:\users\55929\desktop\ifaulas\lista01\questao11.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao11.h"
+
+1682037722 source:c:\users\55929\desktop\ifaulas\lista01\questao12.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao12.h"
+
+1682037169 c:\users\55929\desktop\ifaulas\lista01\questao12.h
+
+1682038101 c:\users\55929\desktop\ifaulas\lista01\questao13.h
+
+1682038665 source:c:\users\55929\desktop\ifaulas\lista01\questao13.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao13.h"
+
+1682039119 source:c:\users\55929\desktop\ifaulas\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1682038774 c:\users\55929\desktop\ifaulas\lista01\questao14.h
+
+1682039323 c:\users\55929\desktop\ifaulas\lista01\questao15.h
+
+1682039657 source:c:\users\55929\desktop\ifaulas\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1682040672 c:\users\55929\desktop\ifaulas\lista01\questao16.h
+
+1682041932 source:c:\users\55929\desktop\ifaulas\lista01\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1682041404 c:\users\55929\desktop\ifaulas\lista01\questao17.h
+
+1682042197 source:c:\users\55929\desktop\ifaulas\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1682043797 source:c:\users\55929\desktop\ifaulas\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1682043743 c:\users\55929\desktop\ifaulas\lista01\questao18.h
+
+1682044556 source:c:\users\55929\desktop\ifaulas\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1682044008 c:\users\55929\desktop\ifaulas\lista01\questao19.h
+
+1682045942 c:\users\55929\desktop\ifaulas\lista01\questao20.h
+
+1682046008 source:c:\users\55929\desktop\ifaulas\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1682051014 source:c:\users\55929\desktop\ifaulas\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao22.h"
+
+1682047229 c:\users\55929\desktop\ifaulas\lista01\questao22.h
+
+1682050838 source:c:\users\55929\desktop\ifaulas\lista01\questao23.c
+	<stdio.h>
+	"questao23.h"
+
+1682049984 c:\users\55929\desktop\ifaulas\lista01\questao23.h
+
+1682115489 source:c:\users\55929\desktop\ifaulas\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1682113774 c:\users\55929\desktop\ifaulas\lista01\questao09.h
+
+1682114813 source:c:\users\55929\desktop\ifaulas\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1682113973 c:\users\55929\desktop\ifaulas\lista01\questao21.h
+
