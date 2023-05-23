@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684812742 source:c:\users\55929\desktop\ifaulas\lista02\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bubblesort.h"
+	"mergesort.h"
+
+1684537575 c:\users\55929\desktop\ifaulas\lista02\lista02\bubblesort.h
+
+1684550385 source:c:\users\55929\desktop\ifaulas\lista02\lista02\bubblesort.c
+	<stdio.h>
+	<stdbool.h>
+
+1684812717 c:\users\55929\desktop\ifaulas\lista02\lista02\mergesort.h
+
+1684813351 source:c:\users\55929\desktop\ifaulas\lista02\lista02\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+
